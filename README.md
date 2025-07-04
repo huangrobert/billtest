@@ -4,7 +4,7 @@
 npm i
 ```
 
-# 启动JSON-SERVER服务
+# 启动启动 mock 接口服务
 
 ```bash
 npm run server
